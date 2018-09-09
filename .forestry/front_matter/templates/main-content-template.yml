@@ -1,0 +1,6 @@
+---
+label: Main Content Template
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
