@@ -5,4 +5,5 @@ is_partial: false
 fields:
 - type: textarea
 pages:
+- content/posts/this-is-a-new-post-from-sep-9th-v2.md
 - content/posts/this-is-a-new-post-from-sep-9th.md
